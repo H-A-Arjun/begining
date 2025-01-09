@@ -1,1 +1,2 @@
 starting in git as(begining1.txt)
+git status
